@@ -1,4 +1,8 @@
 _repo: The-Virgin-in-Judgment_46926
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46926-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Phillpotts, Eden
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/665
     wikipedia: http://en.wikipedia.org/wiki/Eden_Phillpotts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46926#The-Virgin-in-Judgment
 gutenberg_issued: '2014-09-21'
 gutenberg_type: Text
 identifiers:
